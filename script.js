@@ -4,7 +4,7 @@
        ⚙️  CONFIGURACIÓN — pegá acá la URL de tu Apps Script
        (la que termina en /exec, después de "Implementar > Aplicación web")
        ══════════════════════════════════════════════════════════ */
-    var GOOGLE_SCRIPT_URL = 'PEGAR_AQUI_TU_URL_DE_APPS_SCRIPT';
+    var GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwnpX0zqJlY_VO3qGKuj9YfP5husv34pn51P66kxVxBHPK43_y0KgI7Kg0fI6aDopcqwg/exec';
 
     /* ══════════════════════════════════════════════════════════
        FONDO — estrellas sutiles
